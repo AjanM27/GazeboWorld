@@ -15,7 +15,7 @@ To run this project, follow these steps:
    
    Replace `~/gazeboProject/build` with the actual path to your project's build directory.
 
-4. **Run the Simulation:**
+3. **Run the Simulation:**
 Launch the world using the following command in the same terminal:
 
 This command starts the Gazebo simulator with the `myWorld` environment where your simulation will be executed.
