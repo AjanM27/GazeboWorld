@@ -1,0 +1,3 @@
+/home/ajanm27/pfiles/Robotics/myrobot/gazeboProject/build/CMakeFiles/rebuild_cache.dir
+/home/ajanm27/pfiles/Robotics/myrobot/gazeboProject/build/CMakeFiles/edit_cache.dir
+/home/ajanm27/pfiles/Robotics/myrobot/gazeboProject/build/CMakeFiles/welcome.dir
