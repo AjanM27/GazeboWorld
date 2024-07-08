@@ -10,7 +10,7 @@ To run this project, follow these steps:
    Make sure Gazebo Classic is installed on your system. You can download it from [Gazebo's official website](http://gazebosim.org/).
 
 2. **Set Plugin Path:**
-   Set the default path for plugins to the build directory using the following command in your terminal:
+  <P></P> Set the default path for plugins to the build directory using the following command in your terminal:</P>
    export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:~/gazeboProject/build
    
    Replace `~/gazeboProject/build` with the actual path to your project's build directory.
