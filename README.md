@@ -11,7 +11,7 @@ To run this project, follow these steps:
 
 2. **Set Plugin Path:**
   <P></P> Set the default path for plugins to the build directory using the following command in your terminal:</P>
-   export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:~/gazeboProject/build
+   `export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:~/gazeboProject/build`
    
    Replace `~/gazeboProject/build` with the actual path to your project's build directory.
 
